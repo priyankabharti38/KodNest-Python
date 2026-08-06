@@ -5,5 +5,5 @@ while number>0:
     digit_sum=digit_sum+digit
     number=number//10
 
-print(f"sum of digit: {digit_sum}")
+print(f"sum of digits:{digit_sum}")
 
